@@ -1,0 +1,6 @@
+Name: KopiLua.Schumix
+Description: KopiLua.Schumix
+Version: 0.1
+
+Requires: 
+Libs: -r:@expanded_libdir@/@PACKAGE@/KopiLua.dll

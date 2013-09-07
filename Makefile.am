@@ -1,10 +1,10 @@
 
-EXTRA_DIST =  expansions.m4 lib/nunit/nunit.framework.dll
+EXTRA_DIST =  expansions.m4
 
 #Warning: This is an automatically generated file, do not edit!
 if ENABLE_DEBUG
- SUBDIRS =  KopiLua Lua Luac KopiLua.Tests
+ SUBDIRS =  KopiLua
 endif
 if ENABLE_RELEASE
- SUBDIRS =  KopiLua Lua Luac KopiLua.Tests
+ SUBDIRS =  KopiLua
 endif

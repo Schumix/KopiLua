@@ -1,6 +1,6 @@
 #! /bin/sh
 
-PROJECT=KopiLua
+PROJECT=KopiLua.Schumix
 FILE=
 CONFIGURE=configure.ac
 
