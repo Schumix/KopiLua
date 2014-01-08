@@ -1,7 +1,7 @@
 KopiLua [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Schumix/kopilua/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 =================
 
-[![Build Status](https://travis-ci.org/NLua/KopiLua.png?branch=master)](https://travis-ci.org/NLua/KopiLua)
+[![Build Status](https://travis-ci.org/Schumix/KopiLua.png)](https://travis-ci.org/Schumix/KopiLua)
 
 * What is KopiLua?
  ------------
