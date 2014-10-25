@@ -86,7 +86,8 @@ FILES = \
 	src/CharPtr.cs \
 	src/LuaState.cs \
 	src/LuaDebug.cs \
-	src/LuaTag.cs 
+	src/LuaTag.cs \
+	src/Platform/CLSCompliantAttribute.cs 
 
 DATA_FILES = 
 
