@@ -7,6 +7,7 @@ language: c
 
 # We need CMake, Mono and NUnit
 install:
+  - sudo apt-get update -qq > /dev/null
   - sudo apt-get install cmake mono-devel mono-gmcs nunit >/dev/null 2>&1
 
 script:
@@ -26,4 +27,4 @@ branches:
 notifications:
   irc:
     channels:
-      - "flame.yeahunter.hu#dev"
+      - "irc.rizon.net#schumix2"
